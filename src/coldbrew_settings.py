@@ -1,0 +1,2 @@
+MODULE_NAME = "StarWarsAPI"
+JSZIP = True
