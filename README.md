@@ -2,7 +2,7 @@
 
 ## <div align="center">Coldbrew Demo: Star Wars API<br /><br />[![pipeline status](https://gitlab.com/Plasticity/coldbrew-star-wars-api-demo/badges/master/pipeline.svg)](https://gitlab.com/Plasticity/coldbrew-star-wars-api-demo/commits/master)&nbsp;&nbsp;&nbsp;[![version](https://img.shields.io/github/release/plasticityai/coldbrew-star-wars-api-demo.svg)](https://github.com/plasticityai/coldbrew-star-wars-api-demo/releases)</div>
 
-This project is a demo of [Coldbrew](https://github.com/plasticityai/coldbrew), a library that lets your run Python in JavaScript that demonstrates how Coldbrew can be used to port a Python library to JavaScript. 
+This project is a demo of [Coldbrew](https://github.com/plasticityai/coldbrew), a library that lets you run Python in JavaScript, that demonstrates how Coldbrew can be used to port a Python library to JavaScript. 
 
 In this particular project, Coldbrew is used to port the [Star Wars API](https://swapi.co/)'s Python Library, [swapi-python](https://github.com/phalt/swapi-python), to JavaScript in just [a few lines](/src/export.js).
 
