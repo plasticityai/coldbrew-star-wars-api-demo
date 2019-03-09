@@ -18,15 +18,13 @@ Various, but not all, features of Coldbrew are demonstrated in this project. Her
 
 1. **Building a Custom Coldbrew Python Environment** —
 
-2. **Running Python in JavaScript** —
+2. **Using a Third-Party Module** —
 
-3. **Using a Third-Party Module** —
+3. **Using Bridge Variables** —
 
-4. **HTTP and Networking Access** —
+4. **HTTP Access in Python** —
 
-5. **Module Name Customization** —
-
-6. **Shrinking the Bundle Size to Save Space** —
+5. **Shrinking the Bundle Size to Save Space** —
 
 ## Contributing
 The main repository for this project can be found on [GitLab](https://gitlab.com/Plasticity/coldbrew-star-wars-api-demo). The [GitHub repository](https://github.com/plasticityai/coldbrew-star-wars-api-demo) is only a mirror. Pull requests are welcome on [GitLab](https://gitlab.com/Plasticity/coldbrew-star-wars-api-demo).
