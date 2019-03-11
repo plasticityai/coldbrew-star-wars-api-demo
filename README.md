@@ -6,6 +6,8 @@ This project is a demo of [Coldbrew](https://github.com/plasticityai/coldbrew), 
 
 In this particular project, Coldbrew is used to port the [Star Wars API](https://swapi.co/)'s Python Library, [swapi-python](https://github.com/phalt/swapi-python), to JavaScript in just [a few lines](/src/export.js).
 
+The only requirements for this project, like Coldbrew itself, are `bash`, `git`, [Python](https://www.python.org/downloads/) and [Docker](https://www.docker.com/get-started).
+
 ## Demo
 
 ## How to Build
@@ -22,9 +24,11 @@ Various, but not all, features of Coldbrew are demonstrated in this project. Her
 
 3. **Using Bridge Variables** —
 
-4. **HTTP Access in Python** —
+4. **Automatic Style Tranformation (Snake Case to Camel Case)** —
 
-5. **Shrinking the Bundle Size to Save Space** —
+5. **HTTP/HTTPS Access in Python** —
+
+6. **Shrinking the Bundle Size to Save Space** —
 
 ## Contributing
 The main repository for this project can be found on [GitLab](https://gitlab.com/Plasticity/coldbrew-star-wars-api-demo). The [GitHub repository](https://github.com/plasticityai/coldbrew-star-wars-api-demo) is only a mirror. Pull requests are welcome on [GitLab](https://gitlab.com/Plasticity/coldbrew-star-wars-api-demo).
